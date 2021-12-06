@@ -14,6 +14,7 @@ Used to set the network
 80001 Matic Testnet
 43113 Avalanche Testnet
 43114 Avalanche Mainnet
+49777 Leprichain Mainnet
 */
 
 window.web3NetworkId = 49777;
