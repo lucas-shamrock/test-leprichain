@@ -1,5 +1,6 @@
 {
   "files": {
+    "web3.min.js": "./web3.min.js",
     "static/js/0.0a798628.chunk.js": "./static/js/0.0a798628.chunk.js",
     "static/js/1.865bf2e6.chunk.js": "./static/js/1.865bf2e6.chunk.js",
     "static/js/2.c11416cd.chunk.js": "./static/js/2.c11416cd.chunk.js",
@@ -99,6 +100,7 @@
     "static/js/7.81b2580d.chunk.js.LICENSE.txt": "./static/js/7.81b2580d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
+    "web3.min.js",
     "static/js/runtime-main.e1cd7353.js",
     "static/js/22.525f7c6b.chunk.js",
     "static/css/main.1359096b.chunk.css",
