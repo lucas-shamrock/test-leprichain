@@ -34,8 +34,12 @@
           mobileWarning.style.display = "none";
         }, 5000);
       } else {
+        /*
         canvas.style.width = "1280px";
         canvas.style.height = "720px";
+	      */
+        canvas.style.width = "85vw";
+        canvas.style['aspect-ratio'] = "16/9";
       }
       loadingBar.style.display = "block";
 
