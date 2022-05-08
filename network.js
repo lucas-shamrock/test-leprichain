@@ -1,6 +1,5 @@
 /*
-Used to set the network
-
+Used to set the network: https://chainlist.org/
 1 Mainnet
 3 Ropsten
 4 Rinkeby
@@ -14,8 +13,13 @@ Used to set the network
 80001 Matic Testnet
 43113 Avalanche Testnet
 43114 Avalanche Mainnet
-49777 Leprichain Mainnet
+42220 Celo Mainnet
+44787 Celo Alfajores Testnet
+62320 Celo Baklava Testnet
+1666700000 Harmony Testnet Shard0
+1666600000 Harmony Mainnet Shard0
+25 Cronos Mainnet Beta
+338 Cronos Testnet
 */
 
-window.web3NetworkId = 49777;
-window.infuraKey = "2d0062a43e9e4086829df115488b45a8"
+window.web3ChainId = 97;
