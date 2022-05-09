@@ -17,4 +17,4 @@ body { padding: 0; margin: 0; background: #231F20}
 .web3modal-modal-card { font-family: sans-serif}
 #unity-container:before {display: block; content: " ";width: 100%;padding-top: 56.25%;}
 #unity-container {width: 62%;}
-#unity-container > canvas {position: absolute;top: 0;left: 0;right: 0;bottom: 0;}
+#unity-container > canvas {position: absolute;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;}
